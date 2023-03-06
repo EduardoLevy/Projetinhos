@@ -1,0 +1,32 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+.butom{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 10px;
+  background-color:yellow;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: green;
+  font-weight: bold;
+  font-style: italic;
+  max-width: fit-content;
+  border:2px solid black;
+  border-radius: 15px; 
+  cursor: pointer;
+}
+fieldset{
+  background-color: white;
+  color: black;
+  text-align:center ;
+}
+label{
+  font-weight: bold;
+  color: black;
+
+}
+a{
+  cursor: pointer;
+  text-align: center;
+}
